@@ -1,4 +1,4 @@
-[Link to the dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjgxMTFlYjctMDRmZi00NzliLTgyN2EtY2NiZGU0ZDQxODU2IiwidCI6ImRiZDY2NjRkLTRlYjktNDZlYi05OWQ4LTVjNDNiYTE1M2M2MSIsImMiOjl9&pageName=ReportSection)
+
 
 [Link to the dataset](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/data)
 
@@ -35,5 +35,5 @@
 ![image](https://github.com/imenbkr/Power-Bi-dashboards/assets/104791884/c9175649-d2c6-403e-835e-3c0d9b6b1683)
 
 
-***Dashboard***
-![image](https://github.com/imenbkr/Power-Bi-dashboards/assets/104791884/717f184b-22da-4c80-bc68-85e64ee92e45)
+
+
